@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Unidad 1</string>
+    <string name="edtCantidad_Hint">Cantidad</string>
+    <string name="tvResultado_Text">Resultado:</string>
+    <string name="edtTipoCambio_Hint">Tipo de Cambio</string>
+    <string name="cbImagen_Mostrar">Mostrar imágen</string>
+</resources>
